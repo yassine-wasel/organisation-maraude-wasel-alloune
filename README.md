@@ -29,3 +29,22 @@ La limite WIP de la colonne En cours est fixée à 3 tâches maximum.
 - Préparer l'itinéraire
 - Réaliser la maraude
 - Faire un bilan après la maraude
+
+## Répartition du travail
+
+### WASEL Yassine
+
+- Création du dépôt GitHub
+- Rédaction du README
+- Création de la branche de travail
+- Création de la pull request
+- Création du GitHub Project
+- Organisation générale de la maraude
+
+### ALLOUNE Abdelwadoud
+
+- Création des issues
+- Ajout des cartes dans GitHub Projects
+- Création des champs personnalisés
+- Réalisation du tableau Kanban papier
+- Suivi de l'avancement des tâches
